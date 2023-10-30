@@ -18,9 +18,8 @@
 - ``EMNLP 2018`` [Iterative Document Representation Learning Towards Summarization with Polishing](https://arxiv.org/pdf/1809.10324.pdf), **Xiuying Chen**, Shen Gao, Chongyang Tao, Yan Song, Dongyan Zhao, Rui Yan. [Code](https://github.com/iriscxy/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing)
 
 
-
 ## 🧑‍🎨 Text Generation Application
-
+ 
 - ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), Mingzhe Li, **Xiuying Chen**, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
 
 - ``SIGIR 2022`` [Target-aware Abstractive Related Work Generation with Contrastive Learning](https://arxiv.org/pdf/2205.13339.pdf), **Xiuying Chen**, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/Target-aware-RWG)
@@ -49,3 +48,5 @@ Zhiqiang Zhang, Dongyan Zhao, Rui Yan.
  - ``arxiv`` [Interactive Natural Language Processing](https://arxiv.org/pdf/2305.13246.pdf), Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, **Xiuying Chen**, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu
 
  - ``IJCAI 2020`` [From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information](https://arxiv.org/pdf/2005.04684.pdf), Shen Gao, **Xiuying Chen**, Zhaochun Ren, Dongyan Zhao, Rui Yan
+
+ 

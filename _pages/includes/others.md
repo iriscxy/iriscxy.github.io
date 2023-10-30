@@ -1,10 +1,4 @@
 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
- -->
-
 # 💬 Invited Talks and Tutorials
 - *2023.09*, AI Generated Text: Unlocking Accuracy, Trust, and Progress, Wuhan University
 - *2023.03*, Improving Abstractive Summarization Systems  by Addressing Informativeness, Faithfulness, and Robustness, Renmin University of China
