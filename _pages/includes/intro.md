@@ -7,5 +7,3 @@ My specific focus is on enhancing the performance of text generation, particular
 This includes applications in summarization, response generation, and question answering, among others. 
 Additionally, I am keen on applying NLP for social good, such as using large language models (LLMs) to expedite scientific discovery and improve healthcare applications, and using LLM as agents for computational social science.
 I have published more than 30 papers at the top international AI conferences.  If you are seeking any form of academic cooperation, please feel free to email me at [xiuying.chen@kaust.edu.sa](mailto:xiuying.chen@kaust.edu.sa).
-
-*I am currently on the job market!*
