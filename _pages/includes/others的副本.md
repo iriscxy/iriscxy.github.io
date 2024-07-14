@@ -16,3 +16,8 @@
 - *2023*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR, NeurIPS.
 - *2022*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR.
 - *2021*, Program Committee, AAAI, ACL, EMNLP, SIGIR, Senior Program Committee, IJCAI.
+
+
+
+# 🎨 Miscellaneous
+I have broad interests in music (I play the electric piano, hulusi, dizi, and erhu), books (e.g., 'Romance of the Three Kingdoms', 'Dream of the Red Chamber'), TV series (e.g., 'Yongzheng Dynasty', 'Lurk'), history, and movies (more than 1k according to my Douban record). I am also a content creator on Bilibili. The video I made about 'Awakening Age' has received over 1 million views.

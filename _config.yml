@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiuying Chen"
-description              : "Ph.D. Student, KAUST "
+description              : " "
 repository               : "iriscxy/iriscxy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -20,11 +20,11 @@ author:
   name             : "Xiuying Chen"
   avatar           : "images/android-chrome-512x512.png"
   # bio              : "KAUST"
-  location         : "Saudi Arabia"
+  location         : "UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=COUnAF4AAAAJ&hl=en"
-  email            : "xiuying.chen@kaust.edu.sa"
+  email            : "xiuying.chen@mbzuai.ac.ae"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

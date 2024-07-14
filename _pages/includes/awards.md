@@ -1,2 +1,10 @@
 # 🎖 Awards
-Hi! I am a CS PhD student at <a href="https://www.kaust.edu.sa/en">KAUST</a> beginning from 2021. My supervisor is Prof. <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/"> Xiangliang Zhang</a> and Prof. <a href="https://www.kaust.edu.sa/en/study/faculty/xin-gao/">Xin Gao</a>. Prior to KAUST, I got my B.S degree in Computer Science at <a href="https://en.whu.edu.cn//">Wuhan University</a> supervised by  Prof. <a href="http://nisplab.whu.edu.cn/">Qian Wang</a>  and my M.S degree in <a href="https://english.pku.edu.cn/">Peking University</a>, supervised by Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a> and Prof. <a href="https://www.ai.pku.edu.cn/info/1314/1713.htm">Dongyan Zhao</a>.
+- *2023* CEMSE Dean's List Award, KAUST
+- *2022* Hornbill Elite Programme
+- *2022* SIGIR Student Travel Grant
+- *2022* CEMSE Dean's List Award, KAUST
+- *2021* Outstanding Graduate, Beijing
+- *2020* Scientific Research Award, Peking University
+- *2019-2020* National Scholarship, Peking University
+- *2019-2020* Merit Student, Peking University
+- *2017-2018* National Scholarship, Wuhan University
