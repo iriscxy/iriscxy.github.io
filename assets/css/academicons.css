@@ -327,21 +327,7 @@
   margin-left: .3em;
 }
 body {
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
-    font-size: 16px;
-}
-
-@media (max-width: 768px) {
-    body {
-        width: 90%;
-        font-size: 14px;
-    }
-}
-
-@media (min-width: 1200px) {
-    body {
-        width: 70%;
-        font-size: 20px;
-    }
+    font-size: 20px;
 }
