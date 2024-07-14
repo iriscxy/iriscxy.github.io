@@ -16,3 +16,8 @@
 - *2023*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR, NeurIPS.
 - *2022*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR.
 - *2021*, Program Committee, AAAI, ACL, EMNLP, SIGIR, Senior Program Committee, IJCAI.
+
+
+
+# 🎨 Miscellaneous
+I enjoy reading novels as much as I love research. "Romance of the Three Kingdoms," "Dream of the Red Chamber," "Fortress Besieged," "Laughing in the Wind," and "Gone with the Wind"... are among my favorite books. To me, it is an eternal and fascinating question of how to tell your story or present your research in an engaging way so that others can be attracted and feel excited as well. The goal I pursue in writing is to "simplify like the autumn tree, and innovate like the February flower" – a Chinese idiom that means to streamline and refine while also introducing fresh and original ideas.
