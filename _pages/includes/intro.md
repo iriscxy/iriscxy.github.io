@@ -5,7 +5,7 @@ I have wide-ranging interests in research topics related to natural language pro
 
 
 
-<span style="color: #c00000;">I am actively looking for highly motivated PhD students, masters, and interns.</span> If you are interested in working with me on generative language models, LLM-based agents, and related interdisciplinary topics please feel free to contact me at xiuying.chen@mbzuai.ac.ae. Here are some suggestions for preparing the email:
+<span style="color: #c00000;">I am actively looking for highly motivated Postdocs, PhD students, masters, and interns.</span> If you are interested in working with me on generative language models, LLM-based agents, and related interdisciplinary topics please feel free to contact me at xiuying.chen@mbzuai.ac.ae. Here are some suggestions for preparing the email:
 
 - Please use Subject Line as: "\\$TermYouApply Prospective Student \\$YourName"
 
