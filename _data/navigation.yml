@@ -3,8 +3,7 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Team"
-    url: "/#-team-members"
+
 
   - title: "News"
     url: "/#-news"
@@ -23,6 +22,9 @@ main:
 
   - title: "Services"
     url: "/#-services"
+
+  - title: "Team"
+    url: "/#-team-members"
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
