@@ -5,7 +5,7 @@ I have wide-ranging interests in research topics related to natural language pro
 
 
 
-<span style="color: #c00000;">I am actively looking for highly motivated PhD students (AED 17,500), masters (AED 15,500), and interns with a scholarship covering: flight ticket, tuition, health insurance, visa, plus a monthly stipend (MSc: AED 8,000 and PhD: AED 10,000).</span> If you are interested in working with me on generative language models, LLM-based agents, and related interdisciplinary topics please feel free to contact me at xiuying.chen@mbzuai.ac.ae. Here are some suggestions for preparing the email:
+<span style="color: #c00000;">I am actively looking for highly motivated PhD students (AED 17,500 per month), Master’s students (AED 15,500 per month), and interns (flight ticket, tuition, health insurance, visa, and a monthly stipend — PhD: AED 10,000 per month; MSc: AED 8,000 per month). All stipends are tax-free.</span> If you are interested in working with me on generative language models, LLM-based agents, and related interdisciplinary topics please feel free to contact me at xiuying.chen@mbzuai.ac.ae. Here are some suggestions for preparing the email:
 
 - Please use Subject Line as: "RA/Master/PhD Prospective Student \\$YourName"
 
