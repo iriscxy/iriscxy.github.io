@@ -1,38 +1,27 @@
 
-# 📝 Selected Publications 
+# 📝 Recent Publications 
+
 ## 🧑‍🎨 Trustworthiness
 
-- `SIGIR 2024` [Flexible and Adaptable Summarization via Expertise Separation](https://arxiv.org/pdf/2406.05360),  **Xiuying Chen**, Mingzhe Li, Shen Gao, Xin Cheng, Qingqing Zhu, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/MoE_Summ)
+- `Nature Computational Science 2025` [Evaluating and mitigating bias in AI-based medical text generation](https://www.nature.com/articles/s43588-025-00789-7), **Xiuying Chen**, Tairan Wang, Juexiao Zhou, Zirui Song, Xin Gao, Xiangliang Zhang
+
+- `ACL 2025` [Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models](https://aclanthology.org/2025.acl-long.1233/), Lang Gao, Jiahui Geng, Xiangliang Zhang, Preslav Nakov, **Xiuying Chen**,
  
-- ``ACL 2023`` [Improving the Robustness of Summarization Systems with Dual Augmentation](https://arxiv.org/pdf/2306.01090.pdf), **Xiuying Chen**, Guodong Long, Chongyang Tao, Mingzhe Li, Xin Gao, Chengqi Zhang, Xiangliang Zhang. [Code](https://github.com/iriscxy/robustness)
+- `ACL 2025` [Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching](https://aclanthology.org/2025.acl-long.1081/), Mingzhe Li, Jing Xiang, Qishen Zhang, Kaiyang Wan, **Xiuying Chen**,
 
-- ``SIGIR 2023`` [A Topic-aware Summarization Framework with Different Modal Side Information](https://arxiv.org/pdf/2305.11503.pdf), **Xiuying Chen**, Mingzhe Li, Shen Gao, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao, Xiangliang Zhang.
+- `NAACL 2025` [Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies](https://aclanthology.org/2025.naacl-long.379.pdf), Zirui Song, Guangxian Ouyang, ..., **Xiuying Chen**
 
+- `COLING 2025` [Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks](https://aclanthology.org/2025.coling-main.264.pdf), Chenxi Wang, Zongfang Liu, Dequan Yang, **Xiuying Chen**
+
+
+## 🎙 Personalization
+
+- `ACM MM 2025` [From Individuals to Crowds: Dual-Level Public Response Prediction in Social Media](https://arxiv.org/pdf/2508.00497), Jinghui Zhang, Kaiyang Wan, Longwei Xu, Ao Li, Zongfang Liu, **Xiuying Chen**
  
-- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), **Xiuying Chen**, Mingzhe Li, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao.
-
-- ``NeurIPS 2022`` [Towards Improving Faithfulness in Abstractive Summarization](https://arxiv.org/pdf/2210.01877.pdf), **Xiuying Chen**, Mingzhe Li, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/FES)
-
-- ``TOIS 2022`` [Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/pdf/10.1145/3517221), **Xiuying Chen**, Mingzhe Li, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan. [Code](https://github.com/iriscxy/Unified-Timeline-Summarizer)
-
-
-
-## 🎙 High-stake applications
-
-- `IJCAI 2024` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/pdf/2403.09498), Yuhan Liu, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan.
+- `ACL finding 2025` [Beyond Profile: From Surface-Level Facts to Deep Persona Simulation in LLMs](https://aclanthology.org/2025.findings-acl.1094/), Zixiao Wang, Duzhen Zhang, Ishita Agrawal, Shen Gao, Le Song, **Xiuying Chen**
  
-- ``EMNLP 2022`` [Scientific Paper Extractive Summarization Enhanced by Citation Graphs](https://arxiv.org/pdf/2212.04214.pdf), **Xiuying Chen**, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang.
-
-
-- ``SIGIR 2022`` [Target-aware Abstractive Related Work Generation with Contrastive Learning](https://arxiv.org/pdf/2205.13339.pdf), **Xiuying Chen**, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/Target-aware-RWG)
-
-- ``ACL 2021`` [Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation](https://aclanthology.org/2021.acl-long.473.pdf), **Xiuying Chen**, Hind Alamro, Mingzhe Li, Shen Gao, Xiangliang Zhang, Dongyan Zhao, Rui Yan. [Code](https://github.com/iriscxy/relatedworkgeneration)
-
 
 ## 📒 Survey
-- ``IJCAI survey track`` [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680), Taicheng Guo, **Xiuying Chen**, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang. 
+- ``IJCAI survey track 2024`` [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680), Taicheng Guo, **Xiuying Chen**, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang. 
 
-- ``Briefings in Bioinformatics 2023`` [Opportunities and Challenges for ChatGPT and Large Language Models in Biomedicine and Health](https://arxiv.org/pdf/2306.10070.pdf), Shubo Tian, Qiao Jin, Lana Yeganova, Po-Ting Lai, Qingqing Zhu, **Xiuying Chen**, et al.
-
-
-- ``arxiv`` [Interactive Natural Language Processing](https://arxiv.org/pdf/2305.13246.pdf), Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, **Xiuying Chen**, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu
+- ``arxiv 2025`` [Injecting domain-specific knowledge into large language models: a comprehensive survey](https://arxiv.org/pdf/2502.10708?), Zirui Song, Bin Yan, Yuhan Liu, Miao Fang, Mingzhe Li, Rui Yan, **Xiuying Chen**
