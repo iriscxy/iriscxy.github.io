@@ -9,7 +9,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#-recent-publications "
 
   # - title: "Awards"
   #   url: "/#-awards"
