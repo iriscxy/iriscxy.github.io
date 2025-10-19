@@ -13,13 +13,13 @@
 ### HALO Lab (Human-Aligned Language Optimization Lab)
 
 
-PhD students: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), Jinghui Zhang
+PhD students: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), [Jinghui Zhang](https://znull-1220.github.io/#research)
 
 Visiting students:  [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en), [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en), [Fengxian Ji](https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN)
 
 PhD Students (as co-supervisor): [Chong Tian](https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN) *(Co-supervised with Qirong Ho)*, [Zixiao Wang](https://scholar.google.com/citations?user=1A9NbwEAAAAJ&hl=zh-CN) *(Co-supervised with Kun Zhang)*
 
-Master Students: [Chenxi Wang](https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en), [Ishita Agarwal](https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in), Besher Hassan *(Co-supervised with Fajri Koto)*, [Muhammad Cendekia Airlangga](https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en) *(Co-supervised with Kentaro Inui)*, [Dequan Yang](https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae)
+Master Students: [Chenxi Wang](https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en), [Ishita Agarwal](https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in), Besher Hassan *(Co-supervised with Fajri Koto)*, [Muhammad Cendekia Airlangga](https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en) *(Co-supervised with Kentaro Inui)*, [Dequan Yang](https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae), [Fadli Aulawi Al Ghiffari](https://www.linkedin.com/in/fadliaulawi/?originalSubdomain=id) *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))*, Youssef Mohamed Khalil Mohamed *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))*
 
 
 
