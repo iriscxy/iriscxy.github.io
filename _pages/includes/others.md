@@ -15,7 +15,7 @@
 
 PhD students: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), Jinghui Zhang
 
-Visiting students:  [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en), [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en)
+Visiting students:  [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en), [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en), [Fengxian Ji](https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN)
 
 PhD Students (as co-supervisor): [Chong Tian](https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN) *(Co-supervised with Qirong Ho)*, [Zixiao Wang](https://scholar.google.com/citations?user=1A9NbwEAAAAJ&hl=zh-CN) *(Co-supervised with Kun Zhang)*
 
