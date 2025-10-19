@@ -13,16 +13,17 @@
 ### HALO Lab (Human-Aligned Language Optimization Lab)
 
 
-Incoming PhD students of MBZUAI: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), Jinghui Zhang
+PhD students: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), Jinghui Zhang
 
-PhD Students (as co-supervisor): [Zixiao Wang](https://scholar.google.com/citations?user=1A9NbwEAAAAJ&hl=zh-CN) *(Co-supervised with Kun Zhang)*, [Chong Tian](https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN) *(Co-supervised with Qirong Ho)*
+Visiting students:  [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en), [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en)
+
+PhD Students (as co-supervisor): [Chong Tian](https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN) *(Co-supervised with Qirong Ho)*, [Zixiao Wang](https://scholar.google.com/citations?user=1A9NbwEAAAAJ&hl=zh-CN) *(Co-supervised with Kun Zhang)*
 
 Master Students: [Chenxi Wang](https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en), [Ishita Agarwal](https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in), Besher Hassan *(Co-supervised with Fajri Koto)*, [Muhammad Cendekia Airlangga](https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en) *(Co-supervised with Kentaro Inui)*, [Dequan Yang](https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae)
 
-Visiting students: [Zixiang Xu](https://xzx34.github.io/), [Yanbo Wang](https://wyf23187.github.io/), [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en)
 
 
-Past Research Associates: [Kaiyang Wan](https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en), [Yougang Lyu](https://youganglyu.github.io/), Xueran Han
+Past Research Associates: [Kaiyang Wan](https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en), [Zixiang Xu](https://xzx34.github.io/), [Yanbo Wang](https://wyf23187.github.io/), [Yougang Lyu](https://youganglyu.github.io/), Xueran Han
 
 Alumni: [Guoming Li](https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN)
 
