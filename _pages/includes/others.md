@@ -23,7 +23,7 @@ Master Students: [Chenxi Wang](https://scholar.google.com/citations?user=Gtj8924
 
 
 
-Past Research Associates: [Kaiyang Wan](https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en), [Zixiang Xu](https://xzx34.github.io/), [Yanbo Wang](https://wyf23187.github.io/), [Yougang Lyu](https://youganglyu.github.io/), Xueran Han
+Past Research Associates: [Kaiyang Wan](https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en)(now PhD at [INSAIT](https://insait.ai/)), [Zixiang Xu](https://xzx34.github.io/), [Yanbo Wang](https://wyf23187.github.io/), [Yougang Lyu](https://youganglyu.github.io/), Xueran Han
 
 Alumni: [Guoming Li](https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN)
 
