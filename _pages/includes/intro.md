@@ -15,4 +15,4 @@ If you are interested in working with me on generative language models, LLM-base
 - Attach your CV
 
 
-<span style="color: #c00000;">I also serve on the research committee and help organize the NLP Department seminar series. If you are a faculty member, researcher, or industry practitioner interested in giving a talk, please feel free to contact me.</span> 
+<span style="color: #c00000;">I also serve on the research committee and help organize the NLP Department seminar series together with <a href="https://scholar.google.com/citations?user=WR1ImCMAAAAJ&hl=en">Prof. Monojit</a>. If you are a faculty member, researcher, or industry practitioner interested in giving a talk, please feel free to contact me.</span> 
