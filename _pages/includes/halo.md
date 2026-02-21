@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "HALO Lab"
 permalink: /halo/
 author_profile: true
