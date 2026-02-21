@@ -12,22 +12,46 @@
 
 ### HALO Lab (Human-Aligned Language Optimization Lab)
 
+#### PhD Students
+- [Zirui Song](https://ziruisongbest.github.io/) (B.S.@UTS)- Embodied AI [[NAACL'25]](https://aclanthology.org/2025.naacl-long.379/) [[AAAI'26]](https://arxiv.org/abs/2505.16517)
+- [Lang Gao](https://heartyhaven.github.io/)(B.S.@HUST) - Interpretability [[ACL'25]](https://aclanthology.org/2025.acl-long.1233/)
+- [Jinghui Zhang](https://znull-1220.github.io/#research)(B.S.@SDU) - Personalization [[MM'25]](https://dl.acm.org/doi/abs/10.1145/3746027.3754828)
 
-PhD students: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), [Jinghui Zhang](https://znull-1220.github.io/#research)
+#### Visiting Students
+- [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en)(Ph.D.@IIT Patna)
+- [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en)(M.S.@University of Chinese Academy of Sciences)
+- [Fengxian Ji](https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN)(B.S.@NEU)
 
-Visiting students:  [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en), [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en), [Fengxian Ji](https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN)
+#### PhD Students (Co-supervised)
+- [Ruihong Zeng](https://scholar.google.com/citations?user=hCt0gK0AAAAJ&hl=zh-CN)  
+  *(Co-supervised with [Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en))*
+- [Chong Tian](https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN)  
+  *(Co-supervised with [Qirong Ho](https://scholar.google.com/citations?user=tR3AZbwAAAAJ&hl=en))*
+- [Zixiao Wang](https://scholar.google.com/citations?user=1A9NbwEAAAAJ&hl=zh-CN)  
+  *(Co-supervised with [Kun Zhang](https://scholar.google.com/citations?user=RGoypN4AAAAJ&hl=en))*
 
-PhD Students (as co-supervisor): [Ruihong Zeng](https://scholar.google.com/citations?user=hCt0gK0AAAAJ&hl=zh-CN) *(Co-supervised with [Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en))*, [Chong Tian](https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN) *(Co-supervised with [Qirong Ho](https://scholar.google.com/citations?user=tR3AZbwAAAAJ&hl=en))*, [Zixiao Wang](https://scholar.google.com/citations?user=1A9NbwEAAAAJ&hl=zh-CN) *(Co-supervised with [Kun Zhang](https://scholar.google.com/citations?user=RGoypN4AAAAJ&hl=en))*
+#### Master Students
+- [Chenxi Wang](https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en)
+- [Ishita Agarwal](https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in)
+- Besher Hassan *(Co-supervised with Fajri Koto)*
+- [Muhammad Cendekia Airlangga](https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en)  
+  *(Co-supervised with Kentaro Inui)*
+- [Dequan Yang](https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae)
+- [Fadli Aulawi Al Ghiffari](https://www.linkedin.com/in/fadliaulawi/?originalSubdomain=id)  
+  *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))*
+- Youssef Mohamed Khalil Mohamed  
+  *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))*
 
-Master Students: [Chenxi Wang](https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en), [Ishita Agarwal](https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in), Besher Hassan *(Co-supervised with Fajri Koto)*, [Muhammad Cendekia Airlangga](https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en) *(Co-supervised with Kentaro Inui)*, [Dequan Yang](https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae), [Fadli Aulawi Al Ghiffari](https://www.linkedin.com/in/fadliaulawi/?originalSubdomain=id) *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))*, Youssef Mohamed Khalil Mohamed *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))*
+#### Past Research Associates
+- [Kaiyang Wan](https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en)  
+  *(now PhD at [INSAIT](https://insait.ai/))*
+- [Zixiang Xu](https://xzx34.github.io/)
+- [Yanbo Wang](https://wyf23187.github.io/)
+- [Yougang Lyu](https://youganglyu.github.io/)
+- Xueran Han
 
-
-
-Past Research Associates: [Kaiyang Wan](https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en) (now PhD at [INSAIT](https://insait.ai/)), [Zixiang Xu](https://xzx34.github.io/), [Yanbo Wang](https://wyf23187.github.io/), [Yougang Lyu](https://youganglyu.github.io/), Xueran Han
-
-Alumni: [Guoming Li](https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN)
-
-
+#### Alumni
+- [Guoming Li](https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN)
 *Talk to them if you want to know our lab better!*
 
 
