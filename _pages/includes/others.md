@@ -8,7 +8,8 @@
 
 
 
-# 👥 HALO Lab (Human-Aligned Language Optimization Lab)
+# 👥 HALO Lab 
+(Human-Aligned Language Optimization Lab)
 
 #### PhD Students
 - [Zirui Song](https://ziruisongbest.github.io/) (B.S.@UTS)- Embodied AI [[NAACL'25]](https://aclanthology.org/2025.naacl-long.379/) [[AAAI'26]](https://arxiv.org/abs/2505.16517)
