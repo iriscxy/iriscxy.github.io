@@ -3,16 +3,16 @@ Hi! I am an assistant professor in <a href="https://mbzuai.ac.ae/research/depart
 
 My research advances human-centered natural language processing, aiming to build trustworthy, interpretable, and reliable large language models.
 
-* **Foundational NLP & Reasoning**
-  Studying reasoning [ICLR](https://arxiv.org/abs/2509.21199), interpretability [ACL](https://aclanthology.org/2025.acl-long.1233/), and Stability [NeurIPS](https://openreview.net/forum?id=sWIbJWiEuA) in large models.
+* **Foundational NLP**
+  Studying reasoning [[ICLR]](https://arxiv.org/abs/2509.21199), interpretability [[ACL]](https://aclanthology.org/2025.acl-long.1233/), and Stability [[NeurIPS]](https://openreview.net/forum?id=sWIbJWiEuA) in large models.
 
 * **Real-World NLP Systems**
-  Bridging research and large-scale deployment, such as in short-video platforms📱 [ACL](https://aclanthology.org/2025.acl-long.1081/) and embodied robotic systems [AAAI](https://arxiv.org/abs/2505.16517).
+  Bridging research and large-scale deployment, such as in short-video platforms📱 [[ACL]](https://aclanthology.org/2025.acl-long.1081/), E-commerce platforms💳 [[WSDM]](https://dl.acm.org/doi/abs/10.1145/3616855.3635813) and embodied robotic systems🤖 [[AAAI]](https://arxiv.org/abs/2505.16517).
 
 * **AI for Science & Society**
   Applying NLP/AI to scientific discovery, including AI for Medicine
-  [Nature Computational Science](https://www.nature.com/articles/s43588-025-00789-7),
-  AI for Chemistry [Communications Chemistry](https://www.nature.com/articles/s42004-024-01394-x), Computational Social Science [IJCAI](https://arxiv.org/abs/2403.09498).
+  [[Nature Computational Science]](https://www.nature.com/articles/s43588-025-00789-7),
+  AI for Chemistry [[Communications Chemistry]](https://www.nature.com/articles/s42004-024-01394-x), Computational Social Science [[IJCAI]](https://arxiv.org/abs/2403.09498) [[EMNLP]](https://aclanthology.org/2025.emnlp-main.1330/).
 
 
 
