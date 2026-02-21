@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.2*: 1 AI4Medicine paper accepted by CVPR findings.
 - *2026.2*: 🎉 Very honored to receive the Rising Star of NLP award at MBZUAI’s 5th anniversary celebration. Our lab member, Lang Gao, also won the Outstanding Research Contribution Award (Student Category).
 - *2026.1*: 2 papers accepted by *ICLR*. Checkout: [LLM Reasoning Bound](https://arxiv.org/abs/2509.21199), reported by [Deeptech](https://mp.weixin.qq.com/s/E6kQWc6ehkbGQ97xs6NrYg)
 - *2025.12*: 🎉 Received the Amazon Research Award 2025 (USD 100,000)

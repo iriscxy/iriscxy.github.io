@@ -37,12 +37,12 @@ Alumni: [Guoming Li](https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=z
 - *2023.09*, AI Generated Text: Unlocking Accuracy, Trust, and Progress, Wuhan University
 - *2023.03*, Improving Abstractive Summarization Systems  by Addressing Informativeness, Faithfulness, and Robustness, Renmin University of China
 - *2023.03*, Improving Abstractive Summarization Systems  by Addressing Informativeness, Faithfulness, and Robustness, Shandong University
-<!--- ``IJCAI 2021``, From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information-->
 
  
 # ⭐ Services
-- *2025*, Action Editor, ACL, EMNLP; Associate Editor, Health Information Science and Systems
-- *2024*, Program Committee, ICLR, ICML, Action Editor, ACL, EMNLP
+- *2026*, Area Chair, ACL, EMNLP, KDD; Associate Editor, Health Information Science and Systems
+- *2025*, Area Chair, ACL, EMNLP; Associate Editor, Health Information Science and Systems
+- *2024*, Program Committee, ICLR, ICML, Area Chair, ACL, EMNLP
 - *2023*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR, NeurIPS.
 - *2022*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR.
 - *2021*, Program Committee, AAAI, ACL, EMNLP, SIGIR, Senior Program Committee, IJCAI.
