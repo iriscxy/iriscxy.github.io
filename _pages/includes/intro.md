@@ -11,8 +11,8 @@ My research advances human-centered natural language processing, aiming to build
 
 * **AI for Science & Society**
   Applying NLP/AI to scientific discovery, including AI for Medicine
-  [Nature Computational Science](https://www.nature.com/articles/s43588-025-00789-7) and
-  AI for Chemistry [Communications Chemistry](https://www.nature.com/articles/s42004-024-01394-x).
+  [Nature Computational Science](https://www.nature.com/articles/s43588-025-00789-7),
+  AI for Chemistry [Communications Chemistry](https://www.nature.com/articles/s42004-024-01394-x), Computational Social Science [IJCAI](https://arxiv.org/abs/2403.09498).
 
 
 

@@ -8,8 +8,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-recent-publications "
+  # - title: "Publications"
+  #   url: "/#-recent-publications "
 
   # - title: "Awards"
   #   url: "/#-awards"
