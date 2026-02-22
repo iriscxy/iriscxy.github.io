@@ -1,6 +1,7 @@
 ---
 title: "HALO Lab"
 permalink: /halo-lab/
+layout: default
 ---
 
 # 👥 HALO Lab 
