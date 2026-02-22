@@ -1,3 +1,10 @@
+---
+title: "HALO Lab"
+permalink: /halo-lab/
+---
+
+{% include_relative includes/halo-lab.md %}
+
 # 👥 HALO Lab 
 (Human-Aligned Language Optimization Lab)
 
