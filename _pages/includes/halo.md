@@ -1,7 +1,11 @@
 ---
-title: "HALO Lab"
 permalink: /halo-lab/
-layout: default
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # 👥 HALO Lab 
