@@ -7,13 +7,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  document.documentElement.className =
+    document.documentElement.className.replace(/\bno-js\b/g, "") + " js ";
 </script>
 
 <!-- For all browsers -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
 <meta http-equiv="cleartype" content="on">
-<head>
-  <base target="_blank">
-</head>
+
+<!-- 可选：如需自定义 head -->
+{% include head/custom.html %}
