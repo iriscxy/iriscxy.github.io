@@ -287,7 +287,7 @@
   font-size: 5em;
 }
 .fa-fw {
-  width: 2.28571429em;
+  width: 1.28571429em;
   text-align: center;
 }
 .fa-ul {
@@ -308,7 +308,6 @@
 .fa-li.fa-lg {
   left: -1.85714286em;
 }
-
 .fa-border {
   padding: .2em .25em .15em;
   border: solid 0.08em #eeeeee;
@@ -325,25 +324,4 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
-}
-body {
-    width: 70%;
-    margin: 0 auto;
-    font-size: 16px;
-}
-
-/* 在小屏幕设备上 */
-@media (max-width: 600px) {
-    body {
-        width: 100%;
-        font-size: 18px;
-    }
-}
-
-/* 在大屏幕设备上 */
-@media (min-width: 1200px) {
-    body {
-        width: 100%;
-        font-size: 18px;
-    }
 }
