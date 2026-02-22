@@ -2,6 +2,7 @@
 permalink: /halo-lab/
 title: ""
 excerpt: ""
+layout: default
 author_profile: true
 redirect_from: 
   - /about/
