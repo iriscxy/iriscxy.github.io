@@ -18,11 +18,6 @@ main:
   #   url: "/#-internships"
 
 
-
-  - title: "HALO Lab"
-    url: "/halo-lab"
-
-
   - title: "Invited Talks"
     url: "/#-invited-talks-and-tutorials"
 
@@ -31,3 +26,7 @@ main:
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
+
+
+  - title: "HALO Lab"
+    url: "/halo-lab"

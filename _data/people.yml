@@ -1,0 +1,72 @@
+phd:
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+master:
+
+
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+  - name: "Alice Zhang"
+    photo: "/Users/xiuying.chen/iriscxy.github.io/images/android-chrome-192x192.png"
+    email: "alice@lab.edu"
+    links:
+      scholar: "https://scholar.google.com/citations?user=XXXX"
+      website: "https://alice.example.com"
+      github: "https://github.com/alice"
+
+
+undergrad: []
+staff: []
+alumni: []
