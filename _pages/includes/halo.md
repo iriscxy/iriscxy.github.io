@@ -4,43 +4,389 @@ title: ""
 excerpt: ""
 layout: default
 author_profile: false
+sidebar:
+  - image: /images/halo/halo-logo.png
+    image_alt: "HALO Lab"
 ---
 
-# 👥 HALO Lab 
-(Human-Aligned Language Optimization Lab)
+<style>
+.team-section {
+  margin-bottom: 2.5em;
+}
+.team-section h2 {
+  font-size: 1.05em;
+  font-weight: 700;
+  color: #1a2e5a;
+  border-left: 4px solid #3a6cc4;
+  padding-left: 0.75em;
+  margin-bottom: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
 
-#### PhD Students
-- [Zirui Song](https://ziruisongbest.github.io/) (B.S.@UTS)- Embodied AI [[NAACL'25]](https://aclanthology.org/2025.naacl-long.379/) [[AAAI'26]](https://arxiv.org/abs/2505.16517)
-- [Lang Gao](https://heartyhaven.github.io/) (B.S.@HUST) - Interpretability [[ACL'25]](https://aclanthology.org/2025.acl-long.1233/)
-- [Jinghui Zhang](https://znull-1220.github.io/#research) (B.S.@SDU) - Personalization [[MM'25]](https://dl.acm.org/doi/abs/10.1145/3746027.3754828)
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  gap: 1.1em;
+}
 
-#### Visiting Students
-- [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en) (Ph.D.@IIT Patna) - AI4Science [CVPR findings]
-- [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en) (M.S.@University of Chinese Academy of Sciences) - LLM Unlearning
-- [Fengxian Ji](https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN) (B.S.@NEU) - Agents
+.member-card {
+  background: #fff;
+  border: 1px solid #e4eaf5;
+  border-radius: 12px;
+  padding: 1.2em 0.85em 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(58,108,196,0.07);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.member-card:hover {
+  box-shadow: 0 6px 20px rgba(58,108,196,0.13);
+  transform: translateY(-2px);
+}
 
-#### PhD Students (Co-supervised)
-- [Ruihong Zeng](https://scholar.google.com/citations?user=hCt0gK0AAAAJ&hl=zh-CN) *(Co-supervised with [Preslav Nakov](https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en))* (M.S.@SYSU)- LLM Unlearning, Fact Checking
-  
-- [Chong Tian](https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN)  *(Co-supervised with [Qirong Ho](https://scholar.google.com/citations?user=tR3AZbwAAAAJ&hl=en))* (B.S.@SDU) - Fact Checking [[EMNLP'25]](https://aclanthology.org/2025.emnlp-main.619/)
-- [Zixiao Wang](https://scholar.google.com/citations?user=1A9NbwEAAAAJ&hl=zh-CN) *(Co-supervised with [Kun Zhang](https://scholar.google.com/citations?user=RGoypN4AAAAJ&hl=en))* - Personalization [[ACL findings'25]](https://aclanthology.org/2025.findings-acl.1094/)
-  
+.member-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 0.65em;
+  background: #e8edf5;
+  flex-shrink: 0;
+}
+.member-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 
-#### Master Students
-- [Chenxi Wang](https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en) (B.S.@XJU) - Interpretability [[ACL findings'25]](https://aclanthology.org/2025.findings-acl.866/) [[EMNLP findings'25]](https://arxiv.org/abs/2506.16151)
-- [Ishita Agarwal](https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in) (B.S.@Sharda University)
-- Besher Hassan *(Co-supervised with Fajri Koto)* (B.S.@Ajman University of Science & Technology)
-- [Muhammad Cendekia Airlangga](https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en)  *(Co-supervised with Kentaro Inui)*
-- [Dequan Yang](https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae) (Ph.D.@SJTU)
-- [Fadli Aulawi Al Ghiffari](https://www.linkedin.com/in/fadliaulawi/?originalSubdomain=id) *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))* (B.S.@University of Indonesia)
-- Youssef Mohamed Khalil Mohamed *(Co-supervised with [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en))*
+.member-name {
+  font-size: 0.88em;
+  font-weight: 700;
+  margin: 0 0 0.18em;
+  line-height: 1.3;
+  color: #1a2e5a;
+}
 
-#### Past Research Associates
-- [Kaiyang Wan](https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en) (B.S.@BUPT, Ph.D.@[INSAIT](https://insait.ai/)) - Reasoning [[ACL findings'25]](https://aclanthology.org/2025.findings-acl.511/), [[ICLR'26]](https://arxiv.org/abs/2509.21199)
-- [Zixiang Xu](https://xzx34.github.io/) (B.S.@SCU) - Multilinguality [[ACL'25]](https://aclanthology.org/2025.acl-long.404/)
-- [Yanbo Wang](https://wyf23187.github.io/) (B.S.@SCU) - Agent [[NeurIPS'25]](https://arxiv.org/abs/2509.26062), Stability [[NeurIPS'25]](https://arxiv.org/abs/2502.01609)
-- [Yougang Lyu](https://youganglyu.github.io/) (Ph.D.@Amsterdam University)
-- Xueran Han (Ph.D.@MBZUAI)
+.member-affil {
+  font-size: 13px !important;
+  color: #aaa;
+  margin: 0 0 0.18em;
+  line-height: 1.4;
+}
 
-#### Alumni
-- [Guoming Li](https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN)
+
+.member-footer {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 0.3em;
+  justify-content: center;
+  margin-top: 0.55em;
+  width: 100%;
+}
+.scholar-icon {
+  color: #4a7fc1;
+  font-size: 1.15em;
+  line-height: 1;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.scholar-icon:hover {
+  color: #1a4a8a;
+  text-decoration: none;
+}
+
+.paper-tag {
+  display: inline-block;
+  font-size: 0.6em;
+  font-weight: 700;
+  padding: 0.12em 0.38em;
+  border-radius: 4px;
+  background: #eef2fa;
+  color: #2c50a0;
+  text-decoration: none;
+  border: 1px solid #c8d5ee;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paper-tag:hover {
+  background: #3a6cc4;
+  color: #fff;
+  border-color: #3a6cc4;
+  text-decoration: none;
+}
+</style>
+
+<div class="team-section">
+<h2>PhD Students</h2>
+<div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/zirui-song.jpg" alt="Zirui Song" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Zirui Song</p>
+  <p class="member-affil">BS @ UTS</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=fmKRIPUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2505.16517">Embodied AI</a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/lang-gao.jpg" alt="Lang Gao" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Lang Gao</p>
+  <p class="member-affil">BS @ HUST</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=LzKcdl8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://aclanthology.org/2025.acl-long.1233/">Interpretability</a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/jinghui-zhang.jpg" alt="Jinghui Zhang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Jinghui Zhang</p>
+  <p class="member-affil">BS @ SDU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=jktWnL8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://dl.acm.org/doi/abs/10.1145/3746027.3754828">Personalization</a>
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="team-section">
+<h2>Visiting Students</h2>
+<div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/akash-ghosh.jpg" alt="Akash Ghosh" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Akash Ghosh</p>
+  <p class="member-affil">PhD @ IIT Patna</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <span class="paper-tag">AI4Science</span>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/puning-yang.jpg" alt="Puning Yang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Puning Yang</p>
+  <p class="member-affil">MS @ UCAS</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/fengxian-ji.jpg" alt="Fengxian Ji" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Fengxian Ji</p>
+  <p class="member-affil">BS @ NEU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="team-section">
+<h2>PhD Students (Co-supervised)</h2>
+<div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/ruihong-zeng.jpg" alt="Ruihong Zeng" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Ruihong Zeng</p>
+  <p class="member-affil">MS @ SYSU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=hCt0gK0AAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/chong-tian.jpg" alt="Chong Tian" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Chong Tian</p>
+  <p class="member-affil">BS @ SDU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=MTZF0pEAAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://aclanthology.org/2025.emnlp-main.619/">Fact Checking</a>
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="team-section">
+<h2>Master Students</h2>
+<div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/chenxi-wang.jpg" alt="Chenxi Wang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Chenxi Wang</p>
+  <p class="member-affil">BS @ XJU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://aclanthology.org/2025.findings-acl.866/">Interpretability</a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/ishita-agarwal.jpg" alt="Ishita Agarwal" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Ishita Agarwal</p>
+  <p class="member-affil">BS @ Sharda University</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/besher-hassan.jpg" alt="Besher Hassan" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Besher Hassan</p>
+  <p class="member-affil">BS @ Ajman University</p>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/muhammad-airlangga.jpg" alt="Muhammad Cendekia Airlangga" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">M. C. Airlangga</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/dequan-yang.jpg" alt="Dequan Yang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Dequan Yang</p>
+  <p class="member-affil">PhD @ SJTU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/fadli-aulawi.jpg" alt="Fadli Aulawi Al Ghiffari" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Fadli Aulawi</p>
+  <p class="member-affil">BS @ Univ. of Indonesia</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://www.linkedin.com/in/fadliaulawi/?originalSubdomain=id" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/youssef-khalil.jpg" alt="Youssef Mohamed Khalil" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Youssef Khalil</p>
+</div>
+
+</div>
+</div>
+
+<div class="team-section">
+<h2>Past Research Associates</h2>
+<div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/kaiyang-wan.jpg" alt="Kaiyang Wan" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Kaiyang Wan</p>
+  <p class="member-affil">BS @ BUPT</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2509.21199">Reasoning</a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/zixiang-xu.jpg" alt="Zixiang Xu" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Zixiang Xu</p>
+  <p class="member-affil">BS @ SCU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=lPLP6H8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://aclanthology.org/2025.acl-long.404/">Multilinguality</a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/yanbo-wang.png" alt="Yanbo Wang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Yanbo Wang</p>
+  <p class="member-affil">BS @ SCU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=ZEcwTysAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2502.01609">Stability</a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/yougang-lyu.png" alt="Yougang Lyu" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Yougang Lyu</p>
+  <p class="member-affil">PhD @ Univ. of Amsterdam</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=vh2AP8gAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/xueran-han.jpg" alt="Xueran Han" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Xueran Han</p>
+  <p class="member-affil">PhD @ MBZUAI</p>
+</div>
+
+</div>
+</div>
+
+<div class="team-section">
+<h2>Alumni</h2>
+<div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/guoming-li.jpg" alt="Guoming Li" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Guoming Li</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
+
+</div>
+</div>
