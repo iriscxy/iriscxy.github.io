@@ -64,6 +64,10 @@ $(window).resize(function() {
   updateNav();
 });
 
+$(window).on('load', function() {
+  updateNav();
+});
+
 $btn.on('click', function() {
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');

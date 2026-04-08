@@ -3,8 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-
-
   - title: "News"
     url: "/#-news"
 
@@ -17,7 +15,6 @@ main:
   # - title: "Internships"
   #   url: "/#-internships"
 
-
   - title: "Invited Talks"
     url: "/#-invited-talks-and-tutorials"
 
@@ -26,7 +23,6 @@ main:
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
-
 
   - title: "HALO Lab"
     url: "/halo-lab"

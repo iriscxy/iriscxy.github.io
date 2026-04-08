@@ -10,9 +10,18 @@ sidebar:
 ---
 
 <style>
+/* Hide all nav items except "About Me" on this page */
+.visible-links li:nth-child(n+3),
+.greedy-nav button,
+.hidden-links {
+  display: none !important;
+}
+
 .team-section {
   margin-bottom: 2.5em;
+  overflow-x: hidden;
 }
+
 .team-section h2 {
   font-size: 1.05em;
   font-weight: 700;

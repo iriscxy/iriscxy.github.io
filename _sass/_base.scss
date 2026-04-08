@@ -5,12 +5,14 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  overflow-x: clip;
 }
 
 body {
   margin: 0;
   padding: 0;
   padding-bottom: 0em;
+  overflow-x: clip;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
