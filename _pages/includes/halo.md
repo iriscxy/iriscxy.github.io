@@ -132,6 +132,8 @@ sidebar:
   border: 1px solid #c8d5ee;
   white-space: nowrap;
   flex-shrink: 0;
+  flex-basis: 100%;
+  text-align: center;
 }
 .paper-tag:hover {
   background: #3a6cc4;
@@ -392,7 +394,7 @@ sidebar:
   <div class="member-footer">
     <a class="scholar-icon" href="https://wyf23187.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=ZEcwTysAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <a class="paper-tag" href="https://arxiv.org/abs/2502.01609">Stability</a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2509.26062">Reasoning</a>
   </div>
 </div>
 
