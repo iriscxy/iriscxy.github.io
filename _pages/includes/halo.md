@@ -132,6 +132,7 @@ sidebar:
   <p class="member-name">Zirui Song</p>
   <p class="member-affil">BS @ UTS</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://ziruisongbest.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=fmKRIPUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="paper-tag" href="https://arxiv.org/abs/2505.16517">Embodied AI</a>
   </div>
@@ -144,6 +145,7 @@ sidebar:
   <p class="member-name">Lang Gao</p>
   <p class="member-affil">BS @ HUST</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://heartyhaven.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=LzKcdl8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="paper-tag" href="https://aclanthology.org/2025.acl-long.1233/">Interpretability</a>
   </div>
@@ -156,8 +158,9 @@ sidebar:
   <p class="member-name">Jinghui Zhang</p>
   <p class="member-affil">BS @ SDU</p>
   <div class="member-footer">
-    <a class="scholar-icon" href="https://scholar.google.com/citations?user=jktWnL8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <a class="paper-tag" href="https://dl.acm.org/doi/abs/10.1145/3746027.3754828">Personalization</a>
+    <a class="scholar-icon" href="https://znull-1220.github.io/" title="Website"><i class="fas fa-home"></i></a>
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=qDDj9nkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://dl.acm.org/doi/abs/10.1145/3746027.3754828">Interpretability</a>
   </div>
 </div>
 
@@ -258,6 +261,7 @@ sidebar:
   <p class="member-name">Chenxi Wang</p>
   <p class="member-affil">BS @ XJU</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://aurora-cx.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="paper-tag" href="https://aclanthology.org/2025.findings-acl.866/">Interpretability</a>
   </div>
@@ -280,14 +284,19 @@ sidebar:
   </div>
   <p class="member-name">Besher Hassan</p>
   <p class="member-affil">BS @ Ajman University</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=RPD3000AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
 </div>
 
 <div class="member-card">
   <div class="member-photo">
     <img src="/images/halo/muhammad-airlangga.jpg" alt="Muhammad Cendekia Airlangga" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
   </div>
-  <p class="member-name">M. C. Airlangga</p>
+  <p class="member-name">Muhammad Kia</p>
+  <p class="member-affil">BE @ ITS</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://sites.google.com/view/mcairlangga/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   </div>
 </div>
@@ -335,6 +344,7 @@ sidebar:
   <p class="member-name">Kaiyang Wan</p>
   <p class="member-affil">BS @ BUPT</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://kaiyangwan.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="paper-tag" href="https://arxiv.org/abs/2509.21199">Reasoning</a>
   </div>
@@ -347,6 +357,7 @@ sidebar:
   <p class="member-name">Zixiang Xu</p>
   <p class="member-affil">BS @ SCU</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://xzx34.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=lPLP6H8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="paper-tag" href="https://aclanthology.org/2025.acl-long.404/">Multilinguality</a>
   </div>
@@ -359,6 +370,7 @@ sidebar:
   <p class="member-name">Yanbo Wang</p>
   <p class="member-affil">BS @ SCU</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://wyf23187.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=ZEcwTysAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="paper-tag" href="https://arxiv.org/abs/2502.01609">Stability</a>
   </div>
@@ -369,8 +381,9 @@ sidebar:
     <img src="/images/halo/yougang-lyu.png" alt="Yougang Lyu" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
   </div>
   <p class="member-name">Yougang Lyu</p>
-  <p class="member-affil">PhD @ Univ. of Amsterdam</p>
+  <p class="member-affil">PhD @ UvA</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://youganglyu.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=vh2AP8gAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   </div>
 </div>
@@ -381,6 +394,9 @@ sidebar:
   </div>
   <p class="member-name">Xueran Han</p>
   <p class="member-affil">PhD @ MBZUAI</p>
+  <div class="member-footer">
+    <a class="paper-tag" href="https://arxiv.org/abs/2502.15616">Personalization</a>
+  </div>
 </div>
 
 </div>
@@ -396,6 +412,7 @@ sidebar:
   </div>
   <p class="member-name">Guoming Li</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://vasile-paskardlgm.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   </div>
 </div>
