@@ -26,8 +26,19 @@ sidebar:
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 1.1em;
+}
+
+@media (max-width: 480px) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75em;
+  }
+  .member-photo {
+    width: 80px;
+    height: 80px;
+  }
 }
 
 .member-card {
@@ -82,7 +93,7 @@ sidebar:
 .member-footer {
   display: flex;
   align-items: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 0.3em;
   justify-content: center;
   margin-top: 0.55em;
