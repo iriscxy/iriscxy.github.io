@@ -232,6 +232,18 @@ sidebar:
   </div>
 </div>
 
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/junior-tonga.webp" alt="Junior Tonga" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Junior Tonga</p>
+  <p class="member-affil">MS @ ENS Paris-Saclay</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://juniortonga.github.io/" title="Website"><i class="fas fa-home"></i></a>
+  </div>
+</div>
+
 </div>
 </div>
 
