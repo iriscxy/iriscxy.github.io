@@ -227,6 +227,19 @@ sidebar:
   </div>
 </div>
 
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/junfeng-liao.jpg" alt="Junfeng Liao" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Junfeng Liao</p>
+  <p class="member-affil">MS @ SUIBE</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://junfeng1212.github.io/" title="Website"><i class="fas fa-home"></i></a>
+    <a class="scholar-icon" href="https://scholar.google.com/citations?hl=en&user=Se7SI3oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="scholar-icon" href="https://www.linkedin.com/in/junfeng-liao-37558a339/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  </div>
+</div>
+
 </div>
 </div>
 
