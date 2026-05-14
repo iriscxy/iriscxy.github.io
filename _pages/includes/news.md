@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.5*: 🎉 3 papers accepted by *ICML* main, and I'm very honored to receive the Gold Reviewer Award. 
 - *2026.4*: 🎉 6 papers accepted by *ACL* main.
 - *2026.2*: 1 AI4Medicine paper accepted by CVPR findings.
 - *2026.2*: 🎉 Very honored to receive the Rising Star of NLP award at MBZUAI’s 5th anniversary celebration. Our lab member, Lang Gao, also won the Outstanding Research Contribution Award (Student Category).
