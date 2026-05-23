@@ -182,7 +182,7 @@ sidebar:
   <div class="member-footer">
     <a class="scholar-icon" href="https://znull-1220.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=qDDj9nkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <a class="paper-tag" href="https://dl.acm.org/doi/abs/10.1145/3746027.3754828">Interpretability</a>
+    <a class="paper-tag" href="https://dl.acm.org/doi/abs/10.1145/3746027.3754828">Personalization</a>
   </div>
 </div>
 
@@ -207,12 +207,13 @@ sidebar:
 
 <div class="member-card">
   <div class="member-photo">
-    <img src="/images/halo/puning-yang.jpg" alt="Puning Yang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+    <img src="/images/halo/puning-yang.png" alt="Puning Yang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
   </div>
   <p class="member-name">Puning Yang</p>
   <p class="member-affil">MS @ UCAS</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2605.16776">LLM Unlearning</a>
   </div>
 </div>
 
@@ -224,6 +225,7 @@ sidebar:
   <p class="member-affil">BS @ NEU</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2604.24023">Benchmark</a>
   </div>
 </div>
 
@@ -430,6 +432,7 @@ sidebar:
   <p class="member-name">Xueran Han</p>
   <p class="member-affil">PhD @ MBZUAI</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://openreview.net/profile?id=~Xueran_Han1" title="OpenReview"><i class="fas fa-home"></i></a>
     <a class="paper-tag" href="https://arxiv.org/abs/2502.15616">Personalization</a>
   </div>
 </div>
