@@ -1,5 +1,5 @@
 # 💬 Invited Talks and Tutorials
-- *2024.05*, Large Language Model–Driven Agents and Role-Playing, Chinese Information Processing Society of China, Urumqi
+- *2027.08*: Fake News in the LLM Era: Generation, Evolution, and Detection, YSSNLP 2027, Lanzhou.
 - *2023.09*, AI Generated Text: Unlocking Accuracy, Trust, and Progress, Wuhan University
 - *2023.03*, Improving Abstractive Summarization Systems  by Addressing Informativeness, Faithfulness, and Robustness, Renmin University of China
 - *2023.03*, Improving Abstractive Summarization Systems  by Addressing Informativeness, Faithfulness, and Robustness, Shandong University

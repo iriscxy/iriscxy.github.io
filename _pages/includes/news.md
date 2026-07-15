@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.7*: Invited as a Local Host for the [CCAC 2026](https://cips-ccac.org/2026/), and invited to give a talk at [YSSNLP 2026](https://www.yssnlp2026.cn/).
 - *2026.5*: 1 paper accepted by KDD ADS track (19.8% acceptance rate).
 - *2026.5*: 🎉 3 papers accepted by *ICML* main, and I'm very honored to receive the Gold Reviewer Award. Checkout: [Affective Computing](https://arxiv.org/abs/2510.11328), [Steering Interpretability](https://arxiv.org/abs/2605.01844), [LLM unlearning](https://arxiv.org/abs/2605.16776).
 - *2026.4*:  6 papers accepted by *ACL* main. Checkout: [AI4Medicine](https://arxiv.org/abs/2604.17318), [MGT detection](https://arxiv.org/abs/2510.12476)
@@ -8,8 +9,6 @@
 - *2025.12*: 🎉 Received the Amazon Research Award 2025 (USD 100,000)
 - *2025.11*: 1 paper accepted by *AAAI*. Checkout: [Embodied Reasoning](https://arxiv.org/pdf/2505.16517)
 - *2025.9*: 2 paper accepted by *NeurIPS* Checkout: [Agentic Reasoning](https://arxiv.org/pdf/2509.26062?)
-- *2025.8*: 4 paper accepted by *EMNLP* and 2 papers by *EMNLP findings*. Checkout: [Fake News Detection](https://aclanthology.org/2025.emnlp-main.619.pdf), [Fake News Simulation](https://aclanthology.org/2025.emnlp-main.1330/)
-- *2025.6*: 1 paper accepted by *ACM MM*. Checkout: [Personalized LLM](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qDDj9nkAAAAJ&citation_for_view=qDDj9nkAAAAJ:d1gkVwhDpl0C)
-- *2025.5*:  5 papers accepted by *ACL* and 5 papers accepted by *ACL findings*. Checkout: [Interpretable Jailbreak Defense](https://aclanthology.org/2025.acl-long.1233.pdf)
+
 
 
