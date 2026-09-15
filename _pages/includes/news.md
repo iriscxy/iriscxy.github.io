@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.8*: 5 papers accepted by *EMNLP*. Check out: [Social Deduction Games](https://arxiv.org/abs/2510.11389) [Social Reasoning](https://arxiv.org/abs/2505.23713), [Multi-Turn Medical Consultations](https://arxiv.org/pdf/2609.12851v1), [Author-Personalized Text Generation](https://arxiv.org/abs/2608.23124).
 - *2026.7*: Invited as a Local Host for the [CCAC 2026](https://cips-ccac.org/2026/), and invited to give a talk at [YSSNLP 2026](https://www.yssnlp2026.cn/) ([slide](/files/Fake_News_in_LLM_Era.pdf)).
 - *2026.5*: 1 paper accepted by KDD ADS track (19.8% acceptance rate).
 - *2026.5*: 🎉 3 papers accepted by *ICML* main, and I'm very honored to receive the Gold Reviewer Award. Checkout: [Affective Computing](https://arxiv.org/abs/2510.11328), [Steering Interpretability](https://arxiv.org/abs/2605.01844), [LLM unlearning](https://arxiv.org/abs/2605.16776).
@@ -9,6 +10,3 @@
 - *2025.12*: 🎉 Received the Amazon Research Award 2025 (USD 100,000)
 - *2025.11*: 1 paper accepted by *AAAI*. Checkout: [Embodied Reasoning](https://arxiv.org/pdf/2505.16517)
 - *2025.9*: 2 paper accepted by *NeurIPS* Checkout: [Agentic Reasoning](https://arxiv.org/pdf/2509.26062?)
-
-
-

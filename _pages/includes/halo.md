@@ -195,18 +195,6 @@ sidebar:
 
 <div class="member-card">
   <div class="member-photo">
-    <img src="/images/halo/akash-ghosh.jpg" alt="Akash Ghosh" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
-  </div>
-  <p class="member-name">Akash Ghosh</p>
-  <p class="member-affil">PhD @ IIT Patna</p>
-  <div class="member-footer">
-    <a class="scholar-icon" href="https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <span class="paper-tag">AI4Science</span>
-  </div>
-</div>
-
-<div class="member-card">
-  <div class="member-photo">
     <img src="/images/halo/puning-yang.png" alt="Puning Yang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
   </div>
   <p class="member-name">Puning Yang</p>
@@ -214,18 +202,6 @@ sidebar:
   <div class="member-footer">
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="paper-tag" href="https://arxiv.org/abs/2605.16776">LLM Unlearning</a>
-  </div>
-</div>
-
-<div class="member-card">
-  <div class="member-photo">
-    <img src="/images/halo/fengxian-ji.jpg" alt="Fengxian Ji" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
-  </div>
-  <p class="member-name">Fengxian Ji</p>
-  <p class="member-affil">BS @ NEU</p>
-  <div class="member-footer">
-    <a class="scholar-icon" href="https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <a class="paper-tag" href="https://arxiv.org/abs/2604.24023">Benchmark</a>
   </div>
 </div>
 
@@ -373,6 +349,30 @@ sidebar:
 <div class="team-section">
 <h2>Past Research Associates</h2>
 <div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/akash-ghosh.jpg" alt="Akash Ghosh" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Akash Ghosh</p>
+  <p class="member-affil">PhD @ IIT Patna</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <span class="paper-tag">AI4Science</span>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/fengxian-ji.jpg" alt="Fengxian Ji" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Fengxian Ji</p>
+  <p class="member-affil">BS @ NEU</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2604.24023">Benchmark</a>
+  </div>
+</div>
 
 <div class="member-card">
   <div class="member-photo">
