@@ -6,8 +6,8 @@
 
  
 # ⭐ Services
-- *2026*, Area Chair, ACL, EMNLP, KDD, NeurIPS, AAAI, ICLR; Associate Editor, Health Information Science and Systems
-- *2025*, Area Chair, ACL, EMNLP; Associate Editor, Health Information Science and Systems
+- *2026*, Area Chair, ACL, EMNLP, KDD, NeurIPS, AAAI, ICLR; Associate Editor, Health Information Science and Systems; Research Committee and Faculty Search Committee, NLP Program, MBZUAI
+- *2025*, Area Chair, ACL, EMNLP; Associate Editor, Health Information Science and Systems; Research Committee and Faculty Search Committee, NLP Program, MBZUAI
 - *2024*, Program Committee, ICLR, ICML, Area Chair, ACL, EMNLP
 - *2023*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR, NeurIPS.
 - *2022*, Program Committee, AAAI, ACL, EMNLP, IJCAI, SIGIR.
