@@ -341,6 +341,9 @@ sidebar:
     <img src="/images/halo/youssef-khalil.jpg" alt="Youssef Mohamed Khalil" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
   </div>
   <p class="member-name">Youssef Khalil</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://youssefkhalil320.github.io/" title="Website"><i class="fas fa-home"></i></a>
+  </div>
 </div>
 
 </div>
