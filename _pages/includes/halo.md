@@ -7,16 +7,24 @@ author_profile: false
 sidebar:
   - image: /images/halo/halo-logo.png
     image_alt: "HALO Lab"
+nav:
+  - title: "PhD Students"
+    url: "#phd"
+  - title: "Visiting Students"
+    url: "#visiting"
+  - title: "Co-supervised PhD"
+    url: "#cosupervised"
+  - title: "Master Students"
+    url: "#master"
+  - title: "Past RAs"
+    url: "#past-ra"
+  - title: "Alumni"
+    url: "#alumni"
+  - title: "Gallery"
+    url: "#gallery"
 ---
 
 <style>
-/* Hide all nav items except "About Me" on this page */
-.visible-links li:nth-child(n+3),
-.greedy-nav button,
-.hidden-links {
-  display: none !important;
-}
-
 .team-section {
   margin-bottom: 2.5em;
   overflow-x: hidden;
@@ -98,6 +106,13 @@ sidebar:
   line-height: 1.4;
 }
 
+.member-next {
+  font-size: 13px !important;
+  color: #3a6cc4;
+  font-weight: 600;
+  margin: 0 0 0.18em;
+  line-height: 1.4;
+}
 
 .member-footer {
   display: flex;
@@ -141,9 +156,41 @@ sidebar:
   border-color: #3a6cc4;
   text-decoration: none;
 }
+
+
+.team-section {
+  scroll-margin-top: 4.5em;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.1em;
+}
+
+.photo-card {
+  margin: 0;
+  border: 1px solid #e4eaf5;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.photo-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.photo-card figcaption {
+  font-size: 13px;
+  color: #666;
+  padding: 0.6em 0.85em;
+}
 </style>
 
-<div class="team-section">
+<div class="team-section" id="phd">
 <h2>PhD Students</h2>
 <div class="team-grid">
 
@@ -189,7 +236,7 @@ sidebar:
 </div>
 </div>
 
-<div class="team-section">
+<div class="team-section" id="visiting">
 <h2>Visiting Students</h2>
 <div class="team-grid">
 
@@ -221,7 +268,7 @@ sidebar:
 </div>
 </div>
 
-<div class="team-section">
+<div class="team-section" id="cosupervised">
 <h2>PhD Students (Co-supervised)</h2>
 <div class="team-grid">
 
@@ -248,7 +295,6 @@ sidebar:
   </div>
 </div>
 
-
 <div class="member-card">
   <div class="member-photo">
     <img src="/images/halo/junior-tonga.webp" alt="Junior Tonga" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
@@ -263,22 +309,9 @@ sidebar:
 </div>
 </div>
 
-<div class="team-section">
+<div class="team-section" id="master">
 <h2>Master Students</h2>
 <div class="team-grid">
-
-<div class="member-card">
-  <div class="member-photo">
-    <img src="/images/halo/chenxi-wang.jpg" alt="Chenxi Wang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
-  </div>
-  <p class="member-name">Chenxi Wang</p>
-  <p class="member-affil">BS @ XJU</p>
-  <div class="member-footer">
-    <a class="scholar-icon" href="https://aurora-cx.github.io/" title="Website"><i class="fas fa-home"></i></a>
-    <a class="scholar-icon" href="https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <a class="paper-tag" href="https://aclanthology.org/2025.findings-acl.866/">Interpretability</a>
-  </div>
-</div>
 
 <div class="member-card">
   <div class="member-photo">
@@ -288,40 +321,6 @@ sidebar:
   <p class="member-affil">BS @ Sharda University</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://www.linkedin.com/in/ishitaaagarwal/?originalSubdomain=in" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-  </div>
-</div>
-
-<div class="member-card">
-  <div class="member-photo">
-    <img src="/images/halo/besher-hassan.jpg" alt="Besher Hassan" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
-  </div>
-  <p class="member-name">Besher Hassan</p>
-  <p class="member-affil">BS @ Ajman University</p>
-  <div class="member-footer">
-    <a class="scholar-icon" href="https://scholar.google.com/citations?user=RPD3000AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-  </div>
-</div>
-
-<div class="member-card">
-  <div class="member-photo">
-    <img src="/images/halo/muhammad-airlangga.jpg" alt="Muhammad Cendekia Airlangga" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
-  </div>
-  <p class="member-name">Muhammad Kia</p>
-  <p class="member-affil">BE @ ITS</p>
-  <div class="member-footer">
-    <a class="scholar-icon" href="https://sites.google.com/view/mcairlangga/" title="Website"><i class="fas fa-home"></i></a>
-    <a class="scholar-icon" href="https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-  </div>
-</div>
-
-<div class="member-card">
-  <div class="member-photo">
-    <img src="/images/halo/dequan-yang.jpg" alt="Dequan Yang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
-  </div>
-  <p class="member-name">Dequan Yang</p>
-  <p class="member-affil">PhD @ SJTU</p>
-  <div class="member-footer">
-    <a class="scholar-icon" href="https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
   </div>
 </div>
 
@@ -349,7 +348,7 @@ sidebar:
 </div>
 </div>
 
-<div class="team-section">
+<div class="team-section" id="past-ra">
 <h2>Past Research Associates</h2>
 <div class="team-grid">
 
@@ -360,6 +359,7 @@ sidebar:
   <p class="member-name">Akash Ghosh</p>
   <p class="member-affil">PhD @ IIT Patna</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://akashghosh.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <span class="paper-tag">AI4Science</span>
   </div>
@@ -372,8 +372,9 @@ sidebar:
   <p class="member-name">Fengxian Ji</p>
   <p class="member-affil">BS @ NEU</p>
   <div class="member-footer">
+    <a class="scholar-icon" href="https://fengxianji.github.io/FengxianJi/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <a class="paper-tag" href="https://arxiv.org/abs/2604.24023">Benchmark</a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2604.24023">VLM</a>
   </div>
 </div>
 
@@ -383,6 +384,7 @@ sidebar:
   </div>
   <p class="member-name">Kaiyang Wan</p>
   <p class="member-affil">BS @ BUPT</p>
+  <p class="member-next">→ PhD @ INSAIT</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://kaiyangwan.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=v_faxAsAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
@@ -396,6 +398,7 @@ sidebar:
   </div>
   <p class="member-name">Zixiang Xu</p>
   <p class="member-affil">BS @ SCU</p>
+  <p class="member-next">→ PhD @ USC</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://xzx34.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=lPLP6H8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
@@ -433,7 +436,7 @@ sidebar:
     <img src="/images/halo/xueran-han.jpg" alt="Xueran Han" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
   </div>
   <p class="member-name">Xueran Han</p>
-  <p class="member-affil">PhD @ MBZUAI</p>
+  <p class="member-next">→ PhD @ MBZUAI</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://openreview.net/profile?id=~Xueran_Han1" title="OpenReview"><i class="fas fa-home"></i></a>
     <a class="paper-tag" href="https://arxiv.org/abs/2502.15616">Personalization</a>
@@ -443,20 +446,86 @@ sidebar:
 </div>
 </div>
 
-<div class="team-section">
+<div class="team-section" id="alumni">
 <h2>Alumni</h2>
 <div class="team-grid">
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/chenxi-wang.jpg" alt="Chenxi Wang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Chenxi Wang</p>
+  <p class="member-affil">BS @ XJU</p>
+  <p class="member-next">→ Univ. of Cambridge</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://aurora-cx.github.io/" title="Website"><i class="fas fa-home"></i></a>
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://aclanthology.org/2025.findings-acl.866/">Interpretability</a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/besher-hassan.jpg" alt="Besher Hassan" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Besher Hassan</p>
+  <p class="member-affil">BS @ Ajman University</p>
+  <p class="member-next">→ IFM @ MBZUAI</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=RPD3000AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/dequan-yang.jpg" alt="Dequan Yang" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Dequan Yang</p>
+  <p class="member-affil">PhD @ SJTU</p>
+  <p class="member-next">→ IFM @ MBZUAI</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://www.linkedin.com/in/dequan-yang-58b183162/?originalSubdomain=ae" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/muhammad-airlangga.jpg" alt="Muhammad Cendekia Airlangga" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Muhammad Kia</p>
+  <p class="member-affil">BE @ ITS</p>
+  <p class="member-next">→ PhD @ MBZUAI</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://sites.google.com/view/mcairlangga/" title="Website"><i class="fas fa-home"></i></a>
+    <a class="scholar-icon" href="https://scholar.google.com/citations?user=GXhAThEAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  </div>
+</div>
 
 <div class="member-card">
   <div class="member-photo">
     <img src="/images/halo/guoming-li.jpg" alt="Guoming Li" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
   </div>
   <p class="member-name">Guoming Li</p>
+  <p class="member-next">→ PolyU</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://vasile-paskardlgm.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   </div>
 </div>
+
+</div>
+</div>
+
+<div class="team-section" id="gallery">
+<h2>Gallery</h2>
+<div class="photo-grid">
+
+<!-- Add one figure per photo, e.g.
+<figure class="photo-card">
+  <img src="/images/halo/photos/2026-acl.jpg" alt="HALO Lab at ACL 2026">
+  <figcaption>ACL 2026, Vienna</figcaption>
+</figure>
+-->
 
 </div>
 </div>
