@@ -551,23 +551,20 @@ nav:
   <figcaption>Team dinner with Caesar</figcaption>
 </figure>
 <figure class="photo-card large">
-  <img src="/images/gallery/gallery12.jpg" alt="Class of 2025 balloons, obviously" loading="lazy">
-  <figcaption>Class of 2025 balloons, obviously</figcaption>
+  <img src="/images/gallery/gallery12.jpg" alt="Dinner with the group, no agenda this time" loading="lazy">
+  <figcaption>Dinner with the group, no agenda this time</figcaption>
 </figure>
-<figure class="photo-card">
+<figure class="photo-card wide">
   <img src="/images/gallery/gallery4.jpg" alt="Birthday cake, HALO Lab style" loading="lazy">
 </figure>
 <figure class="photo-card">
   <img src="/images/gallery/gallery6.jpg" alt="Poster time: emotion circuits in LLMs" loading="lazy">
 </figure>
 <figure class="photo-card">
-  <img src="/images/gallery/gallery7.jpg" alt="Lunch break, the real networking" loading="lazy">
-</figure>
-<figure class="photo-card">
   <img src="/images/gallery/gallery8.jpg" alt="More poster chats" loading="lazy">
 </figure>
 <figure class="photo-card">
-  <img src="/images/gallery/gallery11.jpg" alt="NLP graduates 2025" loading="lazy">
+  <img src="/images/gallery/gallery11.jpg" alt="" loading="lazy">
 </figure>
 <figure class="photo-card">
   <img src="/images/gallery/gallery10.jpg" alt="The best is yet to come!" loading="lazy">
