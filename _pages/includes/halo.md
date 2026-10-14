@@ -547,8 +547,8 @@ nav:
   <figcaption>ICML 2026 crew, badges on and ready to go</figcaption>
 </figure>
 <figure class="photo-card wide">
-  <img src="/images/gallery/gallery3.jpg" alt="Team dinner with Caesar" loading="lazy">
-  <figcaption>Team dinner with Caesar</figcaption>
+  <img src="/images/gallery/gallery3.jpg" alt="Team dinner at Caesar" loading="lazy">
+  <figcaption>Team dinner at Caesar</figcaption>
 </figure>
 <figure class="photo-card large">
   <img src="/images/gallery/gallery12.jpg" alt="Farewell dinner with our visiting student" loading="lazy">
