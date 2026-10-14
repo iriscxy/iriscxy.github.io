@@ -551,8 +551,8 @@ nav:
   <figcaption>Team dinner with Caesar</figcaption>
 </figure>
 <figure class="photo-card large">
-  <img src="/images/gallery/gallery12.jpg" alt="Dinner with the group, no agenda this time" loading="lazy">
-  <figcaption>Dinner with the group, no agenda this time</figcaption>
+  <img src="/images/gallery/gallery12.jpg" alt="Farewell dinner with our visiting student" loading="lazy">
+  <figcaption>Farewell dinner with our visiting student</figcaption>
 </figure>
 <figure class="photo-card wide">
   <img src="/images/gallery/gallery4.jpg" alt="Birthday cake, HALO Lab style" loading="lazy">
