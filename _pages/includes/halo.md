@@ -164,29 +164,46 @@ nav:
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 1.1em;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 190px;
+  grid-auto-flow: dense;
+  gap: 0.9em;
 }
 
 .photo-card {
   margin: 0;
+  display: flex;
+  flex-direction: column;
   border: 1px solid #e4eaf5;
   border-radius: 12px;
   overflow: hidden;
   background: #fff;
 }
 
+.photo-card.large { grid-column: span 2; grid-row: span 2; }
+.photo-card.wide { grid-column: span 2; }
+
 .photo-card img {
   display: block;
+  flex: 1;
+  min-height: 0;
   width: 100%;
-  aspect-ratio: 4 / 3;
   object-fit: cover;
 }
 
 .photo-card figcaption {
   font-size: 13px;
   color: #666;
-  padding: 0.6em 0.85em;
+  padding: 0.5em 0.85em;
+}
+
+.photo-intro {
+  color: #666;
+  margin-bottom: 1.1em;
+}
+
+@media (max-width: 700px) {
+  .photo-grid { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 150px; }
 }
 </style>
 
@@ -518,14 +535,49 @@ nav:
 
 <div class="team-section" id="gallery">
 <h2>Gallery</h2>
+<p class="photo-intro">I've been meaning to organize these for a while! Here's a collection of group activities, conference trips, and fun memories along the way, in no particular order.</p>
 <div class="photo-grid">
 
-<!-- Add one figure per photo, e.g.
-<figure class="photo-card">
-  <img src="/images/halo/photos/2026-acl.jpg" alt="HALO Lab at ACL 2026">
-  <figcaption>ACL 2026, Vienna</figcaption>
+<figure class="photo-card large">
+  <img src="/images/gallery/gallery9.jpg" alt="NLP graduation day: too many people for one selfie" loading="lazy">
+  <figcaption>NLP graduation day: too many people for one selfie</figcaption>
 </figure>
--->
+<figure class="photo-card large">
+  <img src="/images/gallery/gallery5.jpg" alt="ICML 2026 crew, badges on and ready to go" loading="lazy">
+  <figcaption>ICML 2026 crew, badges on and ready to go</figcaption>
+</figure>
+<figure class="photo-card wide">
+  <img src="/images/gallery/gallery3.jpg" alt="Team dinner with Caesar" loading="lazy">
+  <figcaption>Team dinner with Caesar</figcaption>
+</figure>
+<figure class="photo-card large">
+  <img src="/images/gallery/gallery12.jpg" alt="Class of 2025 balloons, obviously" loading="lazy">
+  <figcaption>Class of 2025 balloons, obviously</figcaption>
+</figure>
+<figure class="photo-card">
+  <img src="/images/gallery/gallery4.jpg" alt="Birthday cake, HALO Lab style" loading="lazy">
+</figure>
+<figure class="photo-card">
+  <img src="/images/gallery/gallery6.jpg" alt="Poster time: emotion circuits in LLMs" loading="lazy">
+</figure>
+<figure class="photo-card">
+  <img src="/images/gallery/gallery7.jpg" alt="Lunch break, the real networking" loading="lazy">
+</figure>
+<figure class="photo-card">
+  <img src="/images/gallery/gallery8.jpg" alt="More poster chats" loading="lazy">
+</figure>
+<figure class="photo-card">
+  <img src="/images/gallery/gallery11.jpg" alt="NLP graduates 2025" loading="lazy">
+</figure>
+<figure class="photo-card">
+  <img src="/images/gallery/gallery10.jpg" alt="The best is yet to come!" loading="lazy">
+</figure>
+<figure class="photo-card wide">
+  <img src="/images/gallery/gallery1.jpg" alt="Instant-photo booth moments" loading="lazy">
+</figure>
+<figure class="photo-card wide">
+  <img src="/images/gallery/gallery2.jpg" alt="Class of 2025 prints" loading="lazy">
+</figure>
 
 </div>
 </div>
