@@ -6,6 +6,7 @@
 
  
 # ⭐ Services
+- *2027*, Area Chair, WWW
 - *2026*, Area Chair, ACL, EMNLP, KDD, NeurIPS, AAAI, ICLR; Associate Editor, Health Information Science and Systems; Research Committee and Faculty Search Committee, NLP Program, MBZUAI
 - *2025*, Area Chair, ACL, EMNLP; Associate Editor, Health Information Science and Systems; Research Committee and Faculty Search Committee, NLP Program, MBZUAI
 - *2024*, Program Committee, ICLR, ICML, Area Chair, ACL, EMNLP
