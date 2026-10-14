@@ -165,7 +165,7 @@ nav:
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-auto-rows: 190px;
+  grid-auto-rows: 240px;
   grid-auto-flow: dense;
   gap: 0.9em;
 }
@@ -182,6 +182,10 @@ nav:
 
 .photo-card.large { grid-column: span 2; grid-row: span 2; }
 .photo-card.wide { grid-column: span 2; }
+
+.photo-card img.cake {
+  object-position: 50% 42%;
+}
 
 .photo-card img {
   display: block;
@@ -555,7 +559,7 @@ nav:
   <figcaption>Farewell dinner with our visiting student</figcaption>
 </figure>
 <figure class="photo-card wide">
-  <img src="/images/gallery/gallery4.jpg" alt="Birthday cake, HALO Lab style" loading="lazy">
+  <img class="cake" src="/images/gallery/gallery4.jpg" alt="Birthday cake, HALO Lab style" loading="lazy">
 </figure>
 <figure class="photo-card">
   <img src="/images/gallery/gallery6.jpg" alt="Poster time: emotion circuits in LLMs" loading="lazy">
