@@ -551,15 +551,15 @@ nav:
   <figcaption>ICML 2026 crew, badges on and ready to go</figcaption>
 </figure>
 <figure class="photo-card wide">
-  <img src="/images/gallery/gallery3.jpg" alt="Team dinner at Caesar" loading="lazy">
-  <figcaption>Team dinner at Caesar</figcaption>
+  <img class="cake" src="/images/gallery/gallery4.jpg" alt="Happy birthday, Zirui!" loading="lazy">
+  <figcaption>Happy birthday, Zirui!</figcaption>
 </figure>
 <figure class="photo-card large">
   <img src="/images/gallery/gallery12.jpg" alt="Farewell dinner with our visiting student" loading="lazy">
   <figcaption>Farewell dinner with our visiting student</figcaption>
 </figure>
 <figure class="photo-card wide">
-  <img class="cake" src="/images/gallery/gallery4.jpg" alt="Birthday cake, HALO Lab style" loading="lazy">
+  <img src="/images/gallery/gallery3.jpg" alt="Team dinner" loading="lazy">
 </figure>
 <figure class="photo-card">
   <img src="/images/gallery/gallery6.jpg" alt="Poster time: emotion circuits in LLMs" loading="lazy">
