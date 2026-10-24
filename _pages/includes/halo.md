@@ -286,6 +286,17 @@ nav:
   </div>
 </div>
 
+<div class="member-card">
+  <div class="member-photo">
+    <img src="/images/halo/chongyuan-dai.jpg" alt="Chongyuan Dai" onerror="this.onerror=null;this.src='/images/halo/default-avatar.svg'">
+  </div>
+  <p class="member-name">Chongyuan Dai</p>
+  <p class="member-affil">BS @ HFUT</p>
+  <div class="member-footer">
+    <a class="scholar-icon" href="https://chyuandai.github.io/" title="Website"><i class="fas fa-home"></i></a>
+  </div>
+</div>
+
 </div>
 </div>
 
