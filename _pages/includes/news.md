@@ -11,4 +11,3 @@
 - *2026.1*: 2 papers accepted by *ICLR*. Checkout: [LLM Reasoning Bound](https://arxiv.org/abs/2509.21199), reported by [Deeptech](https://mp.weixin.qq.com/s/E6kQWc6ehkbGQ97xs6NrYg)
 - *2025.12*: 🎉 Received the Amazon Research Award 2025 (USD 100,000)
 - *2025.11*: 1 paper accepted by *AAAI*. Checkout: [Embodied Reasoning](https://arxiv.org/pdf/2505.16517)
-- *2025.9*: 2 paper accepted by *NeurIPS* Checkout: [Agentic Reasoning](https://arxiv.org/pdf/2509.26062?)
