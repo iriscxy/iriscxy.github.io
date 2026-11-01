@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: 🎉 1 tutorial accepted by *AAAI* 2027 (Montréal). Topic: misinformation in the age of LLM agents.
 - *2026.10*: 🎉 Very honored to receive funding from the MBZUAI Innovation Program 2026.
 - *2026.10*: Gave an invited talk at [CNCC 2026](https://ccf.org.cn/CNCC2026/schedule_d_4163) in Chengdu on *From General to Personalized: Planning-Capable Autonomous Research Agents* ([slide](/files/CNCC2026_From_General_to_Personalized.pdf)). The room was packed, and the energy was amazing! <a href="/images/cncc2026.jpg" target="_blank"><img src="/images/cncc2026-thumb.jpg" alt="CNCC 2026 talk" style="height:1.5em;vertical-align:middle;border-radius:3px"></a>
 - *2026.10*: 🎉 3 papers accepted by *NeurIPS*. Checkout: [Unlearning Soup](https://arxiv.org/pdf/2609.37076), Role Unlearning, Copy-Constrained Decoding. Also, the workshop I co-organize, [LP4FM](https://lp4fm.github.io/) (Linguistic Principles for Foundation Models), will be held at *NeurIPS 2026* (Sydney).
