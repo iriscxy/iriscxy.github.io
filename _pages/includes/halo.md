@@ -574,6 +574,12 @@ nav:
 <figure class="photo-card wide">
   <img src="/images/gallery/gallery3.jpg" alt="Team dinner" loading="lazy">
 </figure>
+<figure class="photo-card wide">
+  <img src="/images/gallery/gallery1.jpg" alt="Instant-photo booth moments" loading="lazy">
+</figure>
+<figure class="photo-card wide">
+  <img src="/images/gallery/gallery2.jpg" alt="Class of 2025 prints" loading="lazy">
+</figure>
 <figure class="photo-card">
   <img src="/images/gallery/gallery6.jpg" alt="Poster time: emotion circuits in LLMs" loading="lazy">
 </figure>
@@ -585,12 +591,6 @@ nav:
 </figure>
 <figure class="photo-card">
   <img src="/images/gallery/gallery10.jpg" alt="The best is yet to come!" loading="lazy">
-</figure>
-<figure class="photo-card wide">
-  <img src="/images/gallery/gallery1.jpg" alt="Instant-photo booth moments" loading="lazy">
-</figure>
-<figure class="photo-card wide">
-  <img src="/images/gallery/gallery2.jpg" alt="Class of 2025 prints" loading="lazy">
 </figure>
 
 </div>
