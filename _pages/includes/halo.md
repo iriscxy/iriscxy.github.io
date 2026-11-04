@@ -283,6 +283,7 @@ nav:
     <a class="scholar-icon" href="https://junfeng1212.github.io/" title="Website"><i class="fas fa-home"></i></a>
     <a class="scholar-icon" href="https://scholar.google.com/citations?hl=en&user=Se7SI3oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="scholar-icon" href="https://www.linkedin.com/in/junfeng-liao-37558a339/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2605.05583">Agent Memory</a>
   </div>
 </div>
 
