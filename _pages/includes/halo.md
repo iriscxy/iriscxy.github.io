@@ -374,6 +374,7 @@ nav:
   <p class="member-name">Youssef Khalil</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://youssefkhalil320.github.io/" title="Website"><i class="fas fa-home"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/abs/2609.12851">AI for Medicine</a>
   </div>
 </div>
 
