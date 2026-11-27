@@ -313,6 +313,7 @@ nav:
   <p class="member-affil">MS @ SYSU</p>
   <div class="member-footer">
     <a class="scholar-icon" href="https://scholar.google.com/citations?user=hCt0gK0AAAAJ&hl=zh-CN" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="paper-tag" href="https://arxiv.org/html/2611.19393v1">Role Unlearning</a>
   </div>
 </div>
 
